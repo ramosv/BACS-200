@@ -1,0 +1,51 @@
+* {
+    #border: dashed 1px blue;
+    padding: 10px;
+    margin: 25px;
+}
+
+body {
+    border: solid black;
+    background-color: black;
+
+}
+
+header {
+    font-size: 20pt;
+    font-family: fantasy;
+    text-align: center;
+    border: solid 3px black;
+    background-color: whitesmoke;
+    border: solid 1px gray;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+h1 {
+    font-size: 50pt;
+    font-family: fantasy;
+    text-align: center;
+
+
+}
+
+footer {
+    border: solid 3px green;
+    background-color: lightgreen;
+}
+
+main {
+    border: solid 1px gray;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+    background-color: lightgoldenrodyellow;
+}
+
+aside {
+    font-size: 15pt;
+    font-family: fantasy;
+    text-align: right;
+    list-style: circle;
+    border: solid 3px black;
+    background-color: whitesmoke;
+}
