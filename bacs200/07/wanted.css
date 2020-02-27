@@ -1,7 +1,6 @@
 * {
-    #border: dashed 1px blue;
-    padding: 10px;
-    margin: 25px;
+    border: 10px black;
+    margin: 5px;
 }
 
 body {
@@ -26,12 +25,13 @@ h1 {
     font-family: fantasy;
     text-align: center;
 
-
 }
 
 footer {
-    border: solid 3px green;
-    background-color: lightgreen;
+    color: beige;
+    text-align: center;
+    border: solid 3px black;
+    background-color: black;
 }
 
 main {
@@ -42,9 +42,12 @@ main {
 }
 
 aside {
-    font-size: 15pt;
+    position: absolute;
+    right: 100px;
+    width: 500px;
+    font-size: 13pt;
     font-family: fantasy;
-    text-align: right;
+
     list-style: circle;
     border: solid 3px black;
     background-color: whitesmoke;
