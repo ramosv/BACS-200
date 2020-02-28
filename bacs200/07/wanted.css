@@ -6,6 +6,7 @@
 body {
     border: solid black;
     background-color: black;
+    margin: 50px;
 
 }
 
@@ -18,14 +19,15 @@ header {
     border: solid 1px gray;
     border-radius: 20px;
     box-shadow: 2px 2px 5px gray;
+    margin: 50px;
 }
 
 h1 {
     font-size: 50pt;
     font-family: fantasy;
     text-align: center;
-
 }
+
 
 footer {
     color: beige;
@@ -39,12 +41,13 @@ main {
     border-radius: 20px;
     box-shadow: 2px 2px 5px gray;
     background-color: lightgoldenrodyellow;
+    margin: 50px;
 }
 
 aside {
     position: absolute;
-    right: 100px;
-    width: 500px;
+    right: 130px;
+    width: 400px;
     font-size: 13pt;
     font-family: fantasy;
 
