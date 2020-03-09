@@ -45,7 +45,17 @@ h2 {
     border-radius: 20px;
 }
 
-h3,
+aside {
+    background-color: gray;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;
+    border: 2px solid red;
+    float: right;
+    width: 30%;
+}
+
 h4 {
     margin: 10px 20px;
     padding: 10px 20px;
@@ -73,12 +83,12 @@ header a:hover {
 aside {
     background-color: gray;
     text-align: center;
-    font-size: 50px;
+    font-size: 15px;
     font-family: sans-serif;
     color: white;
     border: 2px solid red;
     float: right;
-    width: 30%;
+    width: 40%;
 }
 
 header h1 {
@@ -142,4 +152,27 @@ pre {
 textarea {
     width: 90%;
     margin: auto;
+}
+
+/* ----------------------------------------------- */
+/* Classes */
+
+.header_logo {
+    width: 80px;
+    float: right;
+    background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 0;
+}
+
+.page {
+    padding: 2em;
+    box-shadow: 2px 2px 5px grey;
+    background-color: #eeeeee;
+    border: 3px solid #0E3D65;
+    border-radius: 10px;
+    width: 50%;
+    float: left;
 }
