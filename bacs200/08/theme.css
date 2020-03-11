@@ -103,8 +103,8 @@ input {
 }
 
 img {
-    float: right;
-    max-width: 80px;
+    #float: right;
+    #max-width: 80px;
     margin: 35px;
     /*    border: 1px solid #0E3D65;*/
     /*    box-shadow: 2px 2px 5px #0E3D65;*/
