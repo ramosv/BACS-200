@@ -14,6 +14,23 @@ article {
     padding: 1em;
 }
 
+article li {
+
+    padding: 1em;
+    margin: 20px;
+    width: 150px;
+    color: darkblue;
+    background-color: darkblue;
+    box-shadow: 2px 2px 5px gray;
+}
+
+article li A {
+
+    color: blanchedalmond;
+
+    box-shadow: 2px 2px 5px gray;
+}
+
 footer {
     clear: both;
     text-align: center;
